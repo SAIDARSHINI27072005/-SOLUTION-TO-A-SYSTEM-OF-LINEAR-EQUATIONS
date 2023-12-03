@@ -25,7 +25,8 @@ print(C)
 ```
 
 ## Output:
-![Alt text](image.png)
+![Alt text](image-1.png)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
